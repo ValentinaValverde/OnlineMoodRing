@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.mood {
+  padding: 8px;
+  line-height: 1;
+}
+
+.default-mood {
+  background-color: pink;
+  color: black;
+}
+
+.not-so-happy-mood {
+  background-color: red;
+}
+
+.happy-mood {
+  background-color: orange;
+}
+
+.very-happy {
+  background-color: yellow;
+}
